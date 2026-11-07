@@ -1,0 +1,8 @@
+{
+  "appId": "com.marlicab.app",
+  "appName": "Marli Cab",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
